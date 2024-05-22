@@ -1,0 +1,27 @@
+{
+    "buildTime": "2024-03-11T14:35:16.502Z",
+    "sources": [
+        {
+            "id": "Manga3asq",
+            "name": "Manga3asq",
+            "author": "Netsky",
+            "desc": "Extension that pulls manga from https://3asq.org",
+            "website": "http://github.com/TheNetsky",
+            "contentRating": "MATURE",
+            "version": "3.1.3",
+            "icon": "icon.png",
+            "tags": [
+                {
+                    "text": "Arabic",
+                    "type": "info"
+                }
+            ],
+            "websiteBaseURL": "https://3asq.org",
+            "intents": 53
+        }
+    ],
+    "builtWith": {
+        "toolchain": "0.8.0-alpha.47",
+        "types": "0.8.0-alpha.47"
+    }
+}
